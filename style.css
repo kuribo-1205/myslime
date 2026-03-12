@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+h1{
+    display: flex;
+    padding-top: 20px;
+    size: 40px;
+    justify-self: center;
+}
