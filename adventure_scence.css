@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.Adventure_scence{
+    text-align: center;
+    margin-right: 10px;
+}
+img{
+    margin: 25px 100px;
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
